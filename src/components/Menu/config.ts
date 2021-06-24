@@ -64,22 +64,22 @@ const config: MenuEntry[] = [
        label: 'Info',
        icon: 'InfoIcon',
        items: [
-         {
-           label: 'Overview',
-           href: 'https://pancakeswap.info',
-         },
-         {
-           label: 'Tokens',
-           href: 'https://pancakeswap.info/tokens',
-         },
+  //       {
+  //         label: 'Overview',
+  //         href: 'https://pancakeswap.info',
+  //       },
+  //       {
+  //         label: 'Tokens',
+  //         href: 'https://pancakeswap.info/tokens',
+  //       },
          {
            label: 'Pairs',
-           href: 'https://pancakeswap.info/pairs',
+           href: 'https://pancakeswap.info/pairs/0xd462D9eBDB6b938C8a5d96785d3DD0C8596731f2',
          },
-         {
-           label: 'Accounts',
-           href: 'https://pancakeswap.info/accounts',
-         },
+  //       {
+  //         label: 'Accounts',
+  //         href: 'https://pancakeswap.info/accounts',
+  //       },
        ],
      },
   // {
