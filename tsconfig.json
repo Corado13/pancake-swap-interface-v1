@@ -24,6 +24,6 @@
     "allowSyntheticDefaultImports": true,
     "types": ["react-spring", "jest"]
   },
-  "exclude": ["node_modules", "cypress"],
-  "include": ["src"]
+  "exclude": ["cypress"],
+  "include": ["node_modules","src"]
 }
