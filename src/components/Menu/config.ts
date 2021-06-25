@@ -110,5 +110,69 @@ const config: MenuEntry[] = [
   //   ],
   // },
 ]
-
+export const socials = [
+  {
+    label: "Telegram",
+    icon: "TelegramIcon",
+    items: [
+      {
+        label: "English",
+        href: "https://t.me/farmswap",
+      },
+      {
+        label: "Bahasa Indonesia",
+        href: "https://t.me/FarmSwapIndonesia",
+      },
+      {
+        label: "中文",
+        href: "https://t.me/FarmSwap_CN",
+      },
+      {
+        label: "Tiếng Việt",
+        href: "https://t.me/FarmSwapVN",
+      },
+      {
+        label: "Italiano",
+        href: "https://t.me/farmswap_ita",
+      },
+      {
+        label: "русский",
+        href: "https://t.me/farmswap_ru",
+      },
+      {
+        label: "Türkiye",
+        href: "https://t.me/farmswapturkiye",
+      },
+      {
+        label: "Português",
+        href: "https://t.me/FarmSwapPortuguese",
+      },
+      {
+        label: "Español",
+        href: "https://t.me/FarmswapEs",
+      },
+      {
+        label: "日本語",
+        href: "https://t.me/farmswapjp",
+      },
+      {
+        label: "Français",
+        href: "https://t.me/farmswapfr",
+      },
+      {
+        label: "Announcements",
+        href: "https://t.me/FarmSwapAnn",
+      },
+      {
+        label: "Whale Alert",
+        href: "https://t.me/FarmSwapWhales",
+      },
+    ],
+  },
+  {
+    label: "Twitter",
+    icon: "TwitterIcon",
+    href: "https://twitter.com/farmswap",
+  },
+];
 export default config
